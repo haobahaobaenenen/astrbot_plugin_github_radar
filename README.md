@@ -1,6 +1,32 @@
-# astrbot-plugin-helloworld
+# astrbot_plugin_github_radar
 
-AstrBot 插件模板 / A template plugin for AstrBot plugin feature
+GitHub Radar —— 一个 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 插件。
+
+> [!WARNING]
+> 本插件目前仍是初始化骨架：`main.py` 中除插件注册信息外尚未实现任何 GitHub Radar 功能。
+
+## 安装
+
+将本仓库克隆或下载到 AstrBot 的插件目录：
+
+```bash
+cd AstrBot/data/plugins
+git clone https://github.com/haobahaobaenenen/astrbot_plugin_github_radar.git
+```
+
+随后在 AstrBot WebUI 的「插件管理」中重载插件即可。
+
+## 配置
+
+暂无配置项。
+
+## 支持平台
+
+- `qq_official_webhook`
+
+## 链接
+
+- [作者仓库](https://github.com/haobahaobaenenen/astrbot_plugin_github_radar)
 
 > [!NOTE]
 > This repo is just a template of [AstrBot](https://github.com/AstrBotDevs/AstrBot) Plugin.
